@@ -1,4 +1,4 @@
-### Hi I am Rajil SAJILA👋
+### Hi I am Rajil 👋
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
