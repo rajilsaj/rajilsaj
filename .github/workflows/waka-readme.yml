@@ -21,3 +21,5 @@ jobs:
           BRANCH: "main"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update ⚡"
+          # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
+          STATS_RANGE: "last_7_days"

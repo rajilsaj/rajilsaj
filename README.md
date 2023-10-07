@@ -4,6 +4,6 @@
 [![wakatime-stats](https://github.com/rajilsaj/rajilsaj/blob/main/images/stat.svg)](https://wakatime.com/@rajilsaj)
 
 ### Leetcode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sajila)](https://leetcode.com/sajila/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sajila?width=800&height=500))](https://leetcode.com/sajila/)
 
 
