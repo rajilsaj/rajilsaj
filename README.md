@@ -1,9 +1,9 @@
-### Hey, I am Rajil 👋
+## Hey, I'm Rajil 👋
 
-### Wakatime
+###  This is how many times I spend on which technos
 [![wakatime-stats](https://github.com/rajilsaj/rajilsaj/blob/main/images/stat.svg)](https://wakatime.com/@rajilsaj)
 
-### Leetcode
+###  This is my LeetCode adventure report
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sajila)](https://leetcode.com/sajila/)
 
 
